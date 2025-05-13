@@ -3,6 +3,7 @@
 👋 **Hello and welcome!**
 
 I’m **Muhammad Wahyu Ghifari**, A Data Analyst and aspiring Data Scientist passionate about turning data into meaningful insights that inform strategic and sustainable decisions. With a strong academic background and hands-on experience in data analysis, visualization, and machine learning, I thrive on solving real-world problems through analytical thinking and evidence-based approaches.
+
 ---
 
 ## 🚀 About Me
@@ -34,12 +35,14 @@ SQL
 Power BI and Tableau
 
 Jupyter Notebook, Google Colab
+
 ---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/wahyughifari)  
+- [LinkedIn](https://www.linkedin.com/in/wahyughifari/)  
 - 📧 Email: mhdwahyughifari@gmail.com
+
 ---
 
 Thanks for stopping by!  
