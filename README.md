@@ -1,4 +1,4 @@
-# Muhammad Wahyu Ghifari - Data Analyst / Data Scientist
+# Muhammad Wahyu Ghifari - Data Analyst 
 
 👋 **Hello and welcome!**
 
